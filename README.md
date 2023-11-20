@@ -1,4 +1,4 @@
-# Coder's Portfolio
+# My Portfolio
 
 Hey there! 👋 Welcome to my coding journey. I'm a college student passionate about software development, with knowledge in Java, C, C++, Python, and basic web development. My main interest lies in machine learning and data science using Python.
 
